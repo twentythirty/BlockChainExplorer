@@ -2,7 +2,7 @@
 
 Blockchain explorer is a fundamental part of 2030 project. It will allow token holders to have real time, accurate and verifiable information about the current holdings of CriptX tokens.
 
-For more information of CryptX refer to [Token Factory Website](http://tokenfactory.io) and the [20|30 Website](http://www.2030.io)
+For more information on CryptX refer to [Token Factory Website](http://tokenfactory.io) and the [20|30 Website](http://www.2030.io)
 
 ## Development Components and Phases
 

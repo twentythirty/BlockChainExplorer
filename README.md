@@ -10,7 +10,7 @@ There are two parts in BlockChain Explorer:
 1. The **Back-End** that allows to access programatically information about 20|30 CryptX token holdings
 2. The **BlockChain Explorer** user interface that allows to see coins and smart contracts
 
-We have a few phases, (** by priority? ** )
+We have a few phases, ( ** by priority? ** )
 
  1. Provide an interface Input a list of blockchains and addresses, get values out to display on our site.
 
@@ -22,7 +22,7 @@ We have a few phases, (** by priority? ** )
 
 Back-end will be written Clojure, possibly extending or merging with an existing project. The Explorer uses ClojureScript ( **do we have a repository to link to from here?**)
 
-Therefore we are currently need the following following expertise/Resources:
+Therefore we are currently need the following following expertise/Resources. Come to [https://twentythirty.slack.com/messages/C4CLEGPGR](our 20|30 Slack channel) if you want to help
 
 * Clojure for the back-end
 * ClojureScript for the front-end

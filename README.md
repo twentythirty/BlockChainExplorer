@@ -23,7 +23,6 @@ We have a few phases, **by priority?**
 Back-end will be written Clojure, possibly extending or merging with an existing project. The Explorer uses ClojureScript ( **do we have a repository to link to from here?** )
 
 Therefore we currently need the following  expertise/Resources. Come to [our 2030 Slack channel](https://twentythirty.slack.com/messages/C4CLEGPGR) if you want to help:
->>>>>>> ff60b723066a7ff68e6eff3369cd734872b6f9d3
 
 * Clojure for the back-end
 * ClojureScript for the front-end

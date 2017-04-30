@@ -22,7 +22,7 @@ We have a few phases, (** by priority? ** )
 
 Back-end will be written Clojure, possibly extending or merging with an existing project. The Explorer uses ClojureScript ( **do we have a repository to link to from here?**)
 
-Therefore we are currently need the following following expertise/Resources:
+Therefore we currently need the following  expertise/Resources:
 
 * Clojure for the back-end
 * ClojureScript for the front-end
